@@ -1,0 +1,13 @@
+.nav-main {
+    color: black;
+    font-family: "Averta CY",sans-serif;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav div {
+    display: flex;
+}
