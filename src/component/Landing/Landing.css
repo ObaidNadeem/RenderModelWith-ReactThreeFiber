@@ -1,12 +1,9 @@
-.main {
+.landing-page {
     width: 100vw;
     height: 100vh;
-    display: flex;
-    justify-content: center;
+    background-color: orange;
+    text-align: center;
     align-items: center;
+    font-size: 5rem;
 }
 
-canvas {
-    width: 500px;
-    height: 700px !important;
-}
